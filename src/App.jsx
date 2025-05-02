@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import avatarImage from "./assets/@test.png";
+import avatarImage from "./assets/test.png";
 
 function App() {
   const [count, setCount] = useState(0);
